@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mithun Prabhu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="coding" width="700" src="https://st3.depositphotos.com/3382541/13326/v/600/depositphotos_133260890-stock-illustration-programmer-sitting-on-big-laptop.jpg">
+<img align="center" alt="coding" width="1200" height = "500" src="https://st3.depositphotos.com/3382541/13326/v/600/depositphotos_133260890-stock-illustration-programmer-sitting-on-big-laptop.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithunprabhu777&label=Profile%20views&color=0e75b6&style=flat" alt="mithunprabhu777" /> </p>
 
